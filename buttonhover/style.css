@@ -1,0 +1,25 @@
+.Press{
+border-radius: 150px;
+width: 150px;
+border: 50px blue;
+background-color: blue;
+
+
+}
+
+.container{
+    height: 500px;
+    border: 50px blue;
+
+
+}
+
+.holder{
+
+
+}
+
+
+body{
+    margin: 0;
+}
